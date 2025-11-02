@@ -211,3 +211,18 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+
+# Ignore all contents of data/
+data/*
+
+# Keep the folder itself
+!data/.gitkeep
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
