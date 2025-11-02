@@ -226,3 +226,16 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+eval_out/
+Results_S*/           # sampling + eval results
+gen_out/
+__pycache__/
+*.npy
+*.csv
+*.pt
+*.log
+*.tmp
+*.pkl
+.DS_Store
+
