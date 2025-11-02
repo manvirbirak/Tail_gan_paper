@@ -85,6 +85,11 @@ Steps:
 
 Even at small debug configs (tiny dataset, very few epochs, CPU), the full pipeline runs and produces a quantitative tail-risk gap metric. This is the proof-of-concept.
 
+## Reference
+
+Cont, R., Cucuringu, M., Xu, R., & Zhang, C. (2025). *Tail-GAN: Learning to simulate tail risk scenarios*. Management Science. INFORMS.
+
+
 ---
 
 ## Repo layout
