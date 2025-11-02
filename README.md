@@ -2,7 +2,7 @@
 
 ## Overview
 
-Tail-GAN is a copy of the original paper but is a small research/portfolio project.
+Tail-GAN is a copy of the original paper but is a small research/portfolio project (https://arxiv.org/pdf/2203.01664).
 
 - Generate multivariate synthetic asset returns,
 - Build trading strategy PnL series from those returns,
